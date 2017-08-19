@@ -1,3 +1,4 @@
-Skill: Enlightment
+Skill: Basic Enlightment
+
 
 Level 1: Scholar
