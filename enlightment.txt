@@ -1,1 +1,3 @@
 Skill: Enlightment
+
+Level 1: Scholar
