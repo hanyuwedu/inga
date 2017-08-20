@@ -1,6 +1,5 @@
 Skill: Expert Enlightment
 
-
 Level 1: Scholar
 Level 3: Arcane Institution
 Level 4: Tap Runes
