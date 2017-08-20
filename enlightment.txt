@@ -2,3 +2,4 @@ Skill: Expert Enlightment
 
 
 Level 1: Scholar
+Level 3: Intelligence
