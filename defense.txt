@@ -1,1 +1,5 @@
 Skill: Expert Defense
+
+Level 13: Evasion
+Level 14: Vitality
+Level 15: Stand Your Ground
