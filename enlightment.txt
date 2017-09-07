@@ -1,5 +1,4 @@
 Skill: Expert Enlightment
 
 Level 1: Scholar
-Level 3: Intelligence
-Level 5: Mentoring
+Level 3: Arcane Exaltation
