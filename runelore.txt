@@ -1,1 +1,3 @@
-Skill: Expert Runelore
+Skill: Expert Runelorei
+
+Level 2: Fine Rune
