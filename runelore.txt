@@ -1,5 +1,1 @@
 Skill: Expert Runelore
-
-Level 7: Fine Rune
-Level 8: Greater Rune
-Level 9: Refresh Rune
