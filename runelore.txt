@@ -1,2 +1,3 @@
 Skill: Expert Runelore
 
+Level 2: Greater Rune
