@@ -1,4 +1,2 @@
 Skill: Expert Runelore
 
-level 3: Greater Rune
-Level 4: Refresh Rune
