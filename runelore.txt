@@ -1,3 +1,7 @@
 Skill: Expert Runelore
 
+<<<<<<< HEAD
+=======
+Level 3: Refresh Rune
+>>>>>>> master
 Level 4: Greater Rune
