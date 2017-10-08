@@ -1,1 +1,4 @@
 Skill: Expert Runelore
+
+Level 2: Arcane Institution
+Level 3: Greater Rune
