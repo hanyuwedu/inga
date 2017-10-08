@@ -1,1 +1,3 @@
 Skill: Expert Enlightment
+
+Level 2: Intelligence
