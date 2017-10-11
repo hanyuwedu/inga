@@ -3,3 +3,4 @@ Skill: Expert Runelore
 Level 3: Greater Rune
 Level 4: Refined Rune
 Level 10: Absolute Protection
+Level 5: Refresh Rune
