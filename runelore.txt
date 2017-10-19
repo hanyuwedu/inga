@@ -1,3 +1,4 @@
 Skill: Expert Runelore
 
 Level 2: Refine Rune
+Level 5: Refresh Rune
