@@ -1,3 +1,4 @@
 Skill: Expert Enlightment
 
 Level 2: Arcane Institution
+Level 5: Tap Rune
