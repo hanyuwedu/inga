@@ -1,0 +1,3 @@
+Skill: Expert Defense
+
+iLevel 7: Evasion
